@@ -1,0 +1,3 @@
+# Standart install package for the app
+fastapi[all]
+
