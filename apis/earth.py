@@ -1,2 +1,0 @@
-class EarthAPI:
-    pass

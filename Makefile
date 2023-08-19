@@ -1,3 +1,4 @@
+AUTHOR="Yiğit GÜMÜŞ"
 VENV_DIRNAME = venv
 
 ifeq ($(OS), Windows_NT)
